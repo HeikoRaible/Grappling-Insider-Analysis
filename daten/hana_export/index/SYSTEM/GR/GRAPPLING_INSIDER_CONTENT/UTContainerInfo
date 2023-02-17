@@ -1,0 +1,155 @@
+[TABLE INFO]
+Container ID = 0xfe000077b9
+Table name = GRAPPLING_INSIDER_CONTENT
+Schema name = SYSTEM
+Partition ID = 0
+Table OID = 22041
+Ptime OID = 163146
+Is history container = FALSE
+Is part of history = FALSE
+Row order spec type = RO_UNDEFINED
+NVM enabled 0
+Smart Rollover = FALSE
+NVM table preference NONE
+NVM partition preference NONE
+[Runtime Data]
+Index ID = TENANTDB::SYSTEM:GRAPPLING_INSIDER_CONTENT (t 22041)
+Creation timestamp = 1668506727533
+Modify timestamp = 1673773181717
+Last merge timestamp = 1673773196863
+Last historization merge TID = 0
+Last replay log timestamp = 1673768984213
+Last correction timestamp = 1669707669453
+Last truncation timestamp = 0
+Last check timestamp = 1673769052175
+Last check error count = 0
+Raw count of main fragment = 1375
+Next raw count of main fragment = 1375
+Raw count of delta fragment = 331
+Last optimized compression row count = 0
+Changed row count since last optimize compression = 13265
+Deleted rows in main fragment after last merge = 0
+Visible count of main fragment = 1044
+Visible count of delta fragment = 331
+Estimated max memory size of main fragment = 316574
+Estimated max memory size of delta fragment = 138592
+Last estimated memory size = 815342
+Last estimated memory size time = 1673773196863
+Max row ID = 18315
+Max hash ID = 4294967296
+Hash ID counters = 
+Max udiv0 = 1375
+Max udiv1 = 331
+Next max udiv = 1375
+Max merge CID = 0
+Single value cache = 
+[COLUMN INFO] 
+Column name = URL
+Column ID = 201
+Value class = 83
+Int digits = 0
+Fract digits = 0
+Row order position = 0
+LOB in memory thread hold size = 0
+Is concat = FALSE
+Is identity concat = FALSE
+Is paged = FALSE
+Is multi-valued = FALSE
+Is key attribute = TRUE
+Is series key = FALSE
+Is series key = FALSE
+Nvm status = NONE
+[COLUMN INFO] 
+Column name = TITLE
+Column ID = 202
+Value class = 83
+Int digits = 0
+Fract digits = 0
+Row order position = 0
+LOB in memory thread hold size = 0
+Is concat = FALSE
+Is identity concat = FALSE
+Is paged = FALSE
+Is multi-valued = FALSE
+Is key attribute = FALSE
+Is series key = FALSE
+Is series key = FALSE
+Nvm status = NONE
+[COLUMN INFO] 
+Column name = TEXT
+Column ID = 203
+Value class = 89
+Int digits = 0
+Fract digits = 0
+Row order position = 0
+LOB in memory thread hold size = 1000
+Is concat = FALSE
+Is identity concat = FALSE
+Is paged = FALSE
+Is multi-valued = FALSE
+Is key attribute = FALSE
+Is series key = FALSE
+Is series key = FALSE
+Nvm status = NONE
+[COLUMN INFO] 
+Column name = $trex_udiv$
+Column ID = 5
+Value class = 73
+Int digits = 0
+Fract digits = 0
+Row order position = 0
+LOB in memory thread hold size = 0
+Is concat = FALSE
+Is identity concat = FALSE
+Is paged = FALSE
+Is multi-valued = FALSE
+Is key attribute = FALSE
+Is series key = FALSE
+Is series key = FALSE
+Nvm status = NONE
+[COLUMN INFO] 
+Column name = $rowid$
+Column ID = 7
+Value class = 240
+Int digits = 18
+Fract digits = 0
+Row order position = 0
+LOB in memory thread hold size = 0
+Is concat = FALSE
+Is identity concat = FALSE
+Is paged = FALSE
+Is multi-valued = FALSE
+Is key attribute = FALSE
+Is series key = FALSE
+Is series key = FALSE
+Nvm status = NONE
+[FRAGMENT INFO]
+Fragment ID = 25
+Fragment type = Active Main
+Fragment state = CURRENT
+Max column ID = 216
+Actual row count = 1376
+Max Row ID = 17984
+[FRAGMENT INFO]
+Fragment ID = 24
+Fragment type = Delta
+Fragment state = CURRENT
+Max column ID = 216
+Actual row count = 331
+Max Row ID = 17985
+[MVCC INFO]
+Fragment type = Delta
+Number of pages = 1
+Number of row state blocks = 1
+Number of creation timestamp blocks = 1
+Number of deletion timestamp blocks = 0
+Number of free blocks = 0
+Current part of history = FALSE
+[MVCC INFO]
+Fragment type = Active Main
+Number of pages = 2
+Number of row state blocks = 1
+Number of creation timestamp blocks = 1
+Number of deletion timestamp blocks = 1
+Number of free blocks = 0
+Current part of history = FALSE

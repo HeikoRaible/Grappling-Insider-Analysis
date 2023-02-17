@@ -1,0 +1,44 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Praktikum 1: Crawling, Linkextraktion und Content-Extraktion}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}DarmstadtSpider Analyse}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}GrapplingInsiderSpider}{5}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}XPath und Tupel}{5}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}GrapplingInsiderSpider Analyse}{6}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Praktikum 2 - Teil I: Informationsextraktion und Textzerlegung}{9}{section.2}%
+\contentsline {subsection}{\numberline {2.1}HANA VM}{9}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Tabellen}{9}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Füllen der DB}{9}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Prüfen}{9}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Text-Index}{9}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Text-Index prüfen}{10}{subsection.2.6}%
+\contentsline {section}{\numberline {2}Praktikum 2 - Teil II: Reporting auf zerlegten Texten}{10}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Worthäufigkeiten (Nomen) pro Dokument}{10}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Lexikon}{10}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Verteilung der Worthäufigkeiten}{11}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Mehrdeutigkeit}{12}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Weitere Statistiken und Visualisierungen}{12}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Praktikum 3 - Teil I: Fortgeschrittenes Reporting und Dokumentähnlichkeit auf zerlegten Texten (SQL)}{13}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Bigramme}{13}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Co-occurences}{13}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}tf-idf}{14}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}similarity}{14}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}similarity prüfen}{15}{subsection.3.5}%
+\contentsline {section}{\numberline {3}Praktikum 3 - Teil II: Evaluation}{17}{section.3}%
+\contentsline {subsection}{\numberline {3.1}similarity precision/recall}{17}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Interpretation}{17}{subsection.3.2}%
+\contentsline {section}{\numberline {3}Praktikum 3 - Teil III: Duplikaterkennung mit Shingling und MinHashing}{18}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Schritte nachvollziehen}{18}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Verbesserungen}{18}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Zeichenbasiert statt Wortbasiert}{18}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Praktikum 4 - Teil I: Topic Modell Parameter und Interpretation (Common-Crawl)}{19}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Topic Überbegriffe}{19}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Filter Adult Topic}{20}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Stichproben}{21}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Topic Mischungen}{21}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Zwei neue Modelle}{22}{subsection.4.5}%
+\contentsline {section}{\numberline {4}Praktikum 4 - Teil II: Topic Modell auf eigenen gecrawlten Texten}{22}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Topic Überbegriffe}{22}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Filter Adult Topic}{23}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Stichproben}{23}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Topic Mischungen}{25}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Zwei neue Modelle}{25}{subsection.4.5}%
